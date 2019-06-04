@@ -93,6 +93,7 @@ Currently, it supports crm configure sub commands below:
 - primitive (tested)
 - monitor
 - group (tested)
+- modgroup (tested)
 - clone
 - ms
 - rsc_template
